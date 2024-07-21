@@ -1,0 +1,8 @@
+apiVersion: v2 # versao do Chart
+name: giropops-senhas # nome do Chart
+description: Gerador de senhas criado junto com o Xet em live # descricao do Chart
+version: 0.1.0 # versao do Chart
+appVersion: "1.0" # versao da aplicacao
+sources: # lista de urls para o codigo-fonte do projeto
+  - https://github.com/badtuxx/giropops-senhas
+

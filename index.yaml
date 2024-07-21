@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  giropops-senhas:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-07-21T19:42:07.796716575-03:00"
+    description: Gerador de senhas criado junto com o Xet em live
+    digest: 2fe520baae3e528a1646883bcc6c2d71f56c1f4b5724ef3bbed68743f37c519d
+    name: giropops-senhas
+    sources:
+    - https://github.com/badtuxx/giropops-senhas
+    urls:
+    - https://github.com/reysonbarros/helm-chart-k8s/giropops-senhas-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-21T19:42:07.796146004-03:00"
